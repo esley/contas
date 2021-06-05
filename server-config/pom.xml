@@ -14,7 +14,7 @@
 	<name>server-config</name>
 	<description>Configuração server cloud</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>16</java.version>
 		<spring-cloud.version>Hoxton.SR11</spring-cloud.version>
 	</properties>
 	<dependencies>
